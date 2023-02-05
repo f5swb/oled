@@ -1,1 +1,1 @@
-Some useful scripts and fonts to drive oled ssd1306 with micropython
+a tutorial about the oled rpi pyton3 install and some usefuls scripts and fonts 
